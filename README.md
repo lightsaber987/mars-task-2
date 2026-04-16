@@ -1,4 +1,4 @@
-# DC Motor Speed and Direction Control using L298N
+# DC Motor Speed and Direction Control using L298N (TASK - 3)
 
 ## MY TASK
 To control the speed of a DC motor using a potentiometer and change its rotation direction using a push button.
